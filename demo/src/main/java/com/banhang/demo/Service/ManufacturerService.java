@@ -1,8 +1,6 @@
 package com.banhang.demo.Service;
 
 import com.banhang.demo.Dto.ManufacturerDto;
-import com.banhang.demo.Entity.Manufacturer;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 

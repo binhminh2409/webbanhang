@@ -9,5 +9,4 @@ public class BanhangApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BanhangApplication.class, args);
 	}
-
 }
